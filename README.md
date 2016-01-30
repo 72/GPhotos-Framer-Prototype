@@ -1,7 +1,12 @@
 # Framer Project: GPhotos
 A prototype that recreates some areas of Google Photos in Framer.
 
-The goal of this project is to share a robust Framer prototype to be used for different purposes: teaching Framer; to demonstrate what Framer is capable of; analyzing the structure of a multiscreen prototype; experimenting with dynamic data (coming soon!); just for the sake of learning new things.
+The goal of this project is to share a robust Framer prototype to be used for different purposes:
+- Teaching Framer.
+- To demonstrate what Framer is capable of.
+- Analyzing the structure of a multiscreen prototype.
+- Experimenting with dynamic data (coming soon!).
+- Just for the sake of learning new things.
 
 ## Prototype
 - [Latest version](http://share.framerjs.com/k74rpxep6tj4/)
